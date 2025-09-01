@@ -10,26 +10,40 @@ ZRV Discord server policies/more explained rules for staff and members
 
 # 001 - WHAT WE FOLLOW AND DON'T FOLLOW IN THE DISCORD TOS
 > We don't go over what we allow and don't allow on the discord ToS but anything we do enforce is **BAN worthy**.
+> 
 > NSFW of ANY kind
+>
 > DOXXING/DDOS
+>
 > UNDERAGED USERS
+>
 > Self harming
+>
 > Cyber bullying
+>
 > SELF BOTS
+>
 > Some slurs (we allow a few, keep it at a minimum though.)
 
 
 # 002 - PARTNERS
 > You must meet certain requirements to partner with ZRV:
 > **85+ Members**
+>
 > **Must not slander or talk bad about DBLPS**
+>
 > **No bad rumors**
+>
 > **Dokkan related servers are NOT welcomed, its too risky in MY opinion. If you appeal your partnership to me or Rez you may be allowed.**
 
 # 003 - Server coordination
+>
 > **No spamming of ANY kind**
+>
 > **Use channels for the RIGHT purposes**
+>
 > **No flooding chats (unless art channel)**
+>
 > **No self promotion**
 
 # 004 - Staff abusing a member
